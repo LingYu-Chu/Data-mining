@@ -1,0 +1,11 @@
+This file is the documentation of this .rar file
+
+Data Mining Final Report.pdf: The final report of our group
+diamonds.csv: The original dataset download from Kaggle
+diamonds_data.csv: The dataset after data preprocessing
+data_preprocessing.ipynb: Data preprocessing that make diamonds.csv to diamonds_data.csv
+Diamond_MLP.ipynb: Use diamonds_data.csv to do data mining by MLP algorithm
+Diamond_KNN.ipynb: Use diamonds_data.csv to do data mining by KNN algorithm
+Diamond_v3_DT&Ada&RF.ipynb: Use diamonds_data.csv to do data mining by Decision Tree algorithm, AdaBoost algorithm, and Random Forest algorithm
+Naïve Bayes Classifiers (GaussianNB, MultinomialNB), SVM(LinearSVC).ipynb: Use diamonds_data.csv to do data mining by Bayes Classifiers and SVM algorithm
+diamonds_RF_final.py: The system that can predict the price of a diamond by Random Forest
